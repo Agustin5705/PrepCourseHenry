@@ -1,0 +1,40 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: rgb(165, 165, 243);
+}
+
+.encabezados {
+  border: 1px solid black;
+  margin-bottom: 3px;
+  padding: 2px;
+  display: inline-block;
+}
+
+.encabezados:hover {
+  background-color: rgb(0, 136, 255);
+}
+
+h2 {
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3:hover {
+  color: brown;
+}
+
+h3 {
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#formularioContacto:hover {
+  color: rgb(0, 136, 255);
+}
